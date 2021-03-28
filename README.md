@@ -63,6 +63,7 @@ A multiple-line chart of total fares for each city type.
    ### Summary of PyBer
    
 The chart shows that:
+
 Urban city’s have more access and can afford the rie sharing
 Rural city’s are the bottom of the  chat and are affected the most
 In the month of April, Suburban city type had an increase while both Rural and Urban decreased. 
