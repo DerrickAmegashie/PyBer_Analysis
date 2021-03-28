@@ -9,7 +9,7 @@ Once I completed the above task, I was further tasked to create a summary DataFr
 
 ### Analysis
 The total  number of rides for each city type is retrieved?
-                - Rural – 125
+                 Rural – 125
                 - Suburban – 625
                 - Urban – 1625
 
